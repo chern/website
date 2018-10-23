@@ -54,11 +54,5 @@ export default [
 		tagline: 'Learn It, Teach It',
 		image: '/images/committees/logo-teachla.svg',
 		link: 'https://www.facebook.com/teachlaucla/'
-	},
-	{
-		name: 'General',
-		class: 'general',
-		tagline: 'Code the future.',
-		link: 'https://www.facebook.com/uclaacm'
 	}
 ]
